@@ -45,5 +45,5 @@ To use the module in any deno script
 
 
 ```ts
-import { hello } "https://raw.githubusercontent.com/clau-org/template-api-module/v0.0.1/src/hello.ts"
+import { hello } "https://raw.githubusercontent.com/clau-org/api-<NAME>/v0.0.1/src/hello.ts"
 ```
