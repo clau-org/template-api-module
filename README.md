@@ -1,1 +1,1 @@
-# template-api-module
+# api-<NAME>
